@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "hashtable.h": "c",
+        "stdbool.h": "c",
+        "stdint.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "time.h": "c"
+    }
+}

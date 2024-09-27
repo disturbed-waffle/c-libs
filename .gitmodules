@@ -1,0 +1,9 @@
+[submodule "Nuklear"]
+	path = Nuklear
+	url = https://github.com/Immediate-Mode-UI/Nuklear.git
+[submodule "sokol"]
+	path = sokol
+	url = https://github.com/floooh/sokol.git
+[submodule "stb"]
+	path = stb
+	url = https://github.com/nothings/stb.git
